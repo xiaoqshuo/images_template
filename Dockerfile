@@ -1,1 +1,1 @@
-FROM 
+FROM Images_Path:Tags
